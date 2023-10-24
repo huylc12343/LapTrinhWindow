@@ -1,0 +1,11 @@
+D:\LapTrinhWindow\CSharp\lamTrenLop\bt4\fmQuocGia\bin\Debug\fmQuocGia.exe.config
+D:\LapTrinhWindow\CSharp\lamTrenLop\bt4\fmQuocGia\bin\Debug\fmQuocGia.exe
+D:\LapTrinhWindow\CSharp\lamTrenLop\bt4\fmQuocGia\bin\Debug\fmQuocGia.pdb
+D:\LapTrinhWindow\CSharp\lamTrenLop\bt4\fmQuocGia\obj\Debug\fmQuocGia.csproj.AssemblyReference.cache
+D:\LapTrinhWindow\CSharp\lamTrenLop\bt4\fmQuocGia\obj\Debug\fmQuocGia.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinhWindow\CSharp\lamTrenLop\bt4\fmQuocGia\obj\Debug\fmQuocGia.Form1.resources
+D:\LapTrinhWindow\CSharp\lamTrenLop\bt4\fmQuocGia\obj\Debug\fmQuocGia.Properties.Resources.resources
+D:\LapTrinhWindow\CSharp\lamTrenLop\bt4\fmQuocGia\obj\Debug\fmQuocGia.csproj.GenerateResource.cache
+D:\LapTrinhWindow\CSharp\lamTrenLop\bt4\fmQuocGia\obj\Debug\fmQuocGia.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindow\CSharp\lamTrenLop\bt4\fmQuocGia\obj\Debug\fmQuocGia.exe
+D:\LapTrinhWindow\CSharp\lamTrenLop\bt4\fmQuocGia\obj\Debug\fmQuocGia.pdb

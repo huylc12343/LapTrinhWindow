@@ -1,0 +1,12 @@
+D:\CSharp\lamTrenLop\rapchieufilm\bin\Debug\rapchieufilm.exe.config
+D:\CSharp\lamTrenLop\rapchieufilm\bin\Debug\rapchieufilm.exe
+D:\CSharp\lamTrenLop\rapchieufilm\bin\Debug\rapchieufilm.pdb
+D:\CSharp\lamTrenLop\rapchieufilm\obj\Debug\rapchieufilm.csproj.AssemblyReference.cache
+D:\CSharp\lamTrenLop\rapchieufilm\obj\Debug\rapchieufilm.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\lamTrenLop\rapchieufilm\obj\Debug\rapchieufilm.Form1.resources
+D:\CSharp\lamTrenLop\rapchieufilm\obj\Debug\rapchieufilm.Properties.Resources.resources
+D:\CSharp\lamTrenLop\rapchieufilm\obj\Debug\rapchieufilm.csproj.GenerateResource.cache
+D:\CSharp\lamTrenLop\rapchieufilm\obj\Debug\rapchieufilm.csproj.CoreCompileInputs.cache
+D:\CSharp\lamTrenLop\rapchieufilm\obj\Debug\rapchieufilm.exe
+D:\CSharp\lamTrenLop\rapchieufilm\obj\Debug\rapchieufilm.pdb
+D:\CSharp\lamTrenLop\rapchieufilm\obj\Debug\rapchieufilm.Form2.resources

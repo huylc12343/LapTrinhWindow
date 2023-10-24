@@ -1,0 +1,15 @@
+D:\CSharp\LamONha\bai2\obj\Debug\net6.0\bai2.csproj.AssemblyReference.cache
+D:\CSharp\LamONha\bai2\obj\Debug\net6.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\LamONha\bai2\obj\Debug\net6.0\bai2.AssemblyInfoInputs.cache
+D:\CSharp\LamONha\bai2\obj\Debug\net6.0\bai2.AssemblyInfo.cs
+D:\CSharp\LamONha\bai2\obj\Debug\net6.0\bai2.csproj.CoreCompileInputs.cache
+D:\CSharp\LamONha\bai2\bin\Debug\net6.0\bai2.exe
+D:\CSharp\LamONha\bai2\bin\Debug\net6.0\bai2.deps.json
+D:\CSharp\LamONha\bai2\bin\Debug\net6.0\bai2.runtimeconfig.json
+D:\CSharp\LamONha\bai2\bin\Debug\net6.0\bai2.dll
+D:\CSharp\LamONha\bai2\bin\Debug\net6.0\bai2.pdb
+D:\CSharp\LamONha\bai2\obj\Debug\net6.0\bai2.dll
+D:\CSharp\LamONha\bai2\obj\Debug\net6.0\refint\bai2.dll
+D:\CSharp\LamONha\bai2\obj\Debug\net6.0\bai2.pdb
+D:\CSharp\LamONha\bai2\obj\Debug\net6.0\bai2.genruntimeconfig.cache
+D:\CSharp\LamONha\bai2\obj\Debug\net6.0\ref\bai2.dll

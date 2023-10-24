@@ -1,0 +1,11 @@
+D:\CSharp\lamTrenLop\tinhTienKhamRang\bin\Debug\tinhTienKhamRang.exe.config
+D:\CSharp\lamTrenLop\tinhTienKhamRang\bin\Debug\tinhTienKhamRang.exe
+D:\CSharp\lamTrenLop\tinhTienKhamRang\bin\Debug\tinhTienKhamRang.pdb
+D:\CSharp\lamTrenLop\tinhTienKhamRang\obj\Debug\tinhTienKhamRang.csproj.AssemblyReference.cache
+D:\CSharp\lamTrenLop\tinhTienKhamRang\obj\Debug\tinhTienKhamRang.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\lamTrenLop\tinhTienKhamRang\obj\Debug\tinhTienKhamRang.Form1.resources
+D:\CSharp\lamTrenLop\tinhTienKhamRang\obj\Debug\tinhTienKhamRang.Properties.Resources.resources
+D:\CSharp\lamTrenLop\tinhTienKhamRang\obj\Debug\tinhTienKhamRang.csproj.GenerateResource.cache
+D:\CSharp\lamTrenLop\tinhTienKhamRang\obj\Debug\tinhTienKhamRang.csproj.CoreCompileInputs.cache
+D:\CSharp\lamTrenLop\tinhTienKhamRang\obj\Debug\tinhTienKhamRang.exe
+D:\CSharp\lamTrenLop\tinhTienKhamRang\obj\Debug\tinhTienKhamRang.pdb

@@ -1,0 +1,11 @@
+D:\CSharp\lamTrenLop\bt4\testWF\bin\Debug\testWF.exe.config
+D:\CSharp\lamTrenLop\bt4\testWF\bin\Debug\testWF.exe
+D:\CSharp\lamTrenLop\bt4\testWF\bin\Debug\testWF.pdb
+D:\CSharp\lamTrenLop\bt4\testWF\obj\Debug\testWF.csproj.AssemblyReference.cache
+D:\CSharp\lamTrenLop\bt4\testWF\obj\Debug\testWF.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\lamTrenLop\bt4\testWF\obj\Debug\testWF.Form1.resources
+D:\CSharp\lamTrenLop\bt4\testWF\obj\Debug\testWF.Properties.Resources.resources
+D:\CSharp\lamTrenLop\bt4\testWF\obj\Debug\testWF.csproj.GenerateResource.cache
+D:\CSharp\lamTrenLop\bt4\testWF\obj\Debug\testWF.csproj.CoreCompileInputs.cache
+D:\CSharp\lamTrenLop\bt4\testWF\obj\Debug\testWF.exe
+D:\CSharp\lamTrenLop\bt4\testWF\obj\Debug\testWF.pdb
